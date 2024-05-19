@@ -1,0 +1,14 @@
+E:\code\c#\OOP_PRN212\OOP_PRN212\bin\Debug\net8.0\OOP_PRN212.exe
+E:\code\c#\OOP_PRN212\OOP_PRN212\bin\Debug\net8.0\OOP_PRN212.deps.json
+E:\code\c#\OOP_PRN212\OOP_PRN212\bin\Debug\net8.0\OOP_PRN212.runtimeconfig.json
+E:\code\c#\OOP_PRN212\OOP_PRN212\bin\Debug\net8.0\OOP_PRN212.dll
+E:\code\c#\OOP_PRN212\OOP_PRN212\bin\Debug\net8.0\OOP_PRN212.pdb
+E:\code\c#\OOP_PRN212\OOP_PRN212\obj\Debug\net8.0\OOP_PRN212.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\c#\OOP_PRN212\OOP_PRN212\obj\Debug\net8.0\OOP_PRN212.AssemblyInfoInputs.cache
+E:\code\c#\OOP_PRN212\OOP_PRN212\obj\Debug\net8.0\OOP_PRN212.AssemblyInfo.cs
+E:\code\c#\OOP_PRN212\OOP_PRN212\obj\Debug\net8.0\OOP_PRN212.csproj.CoreCompileInputs.cache
+E:\code\c#\OOP_PRN212\OOP_PRN212\obj\Debug\net8.0\OOP_PRN212.dll
+E:\code\c#\OOP_PRN212\OOP_PRN212\obj\Debug\net8.0\refint\OOP_PRN212.dll
+E:\code\c#\OOP_PRN212\OOP_PRN212\obj\Debug\net8.0\OOP_PRN212.pdb
+E:\code\c#\OOP_PRN212\OOP_PRN212\obj\Debug\net8.0\OOP_PRN212.genruntimeconfig.cache
+E:\code\c#\OOP_PRN212\OOP_PRN212\obj\Debug\net8.0\ref\OOP_PRN212.dll
